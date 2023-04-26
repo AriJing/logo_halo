@@ -1,3 +1,7 @@
+/// @Author: Ari Jing
+/// @email: blackiron.sh@gmail.com
+/// @created:  2023-04-26 10:50:08
+/// @description:
 import 'package:flutter/material.dart';
 
 class LogoWidget extends StatelessWidget {

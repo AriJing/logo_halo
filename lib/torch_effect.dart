@@ -1,3 +1,7 @@
+/// @Author: Ari Jing
+/// @email: blackiron.sh@gmail.com
+/// @created:  2023-04-26 10:49:49
+/// @description:
 import 'dart:math' as math;
 import 'package:flutter/material.dart';
 
